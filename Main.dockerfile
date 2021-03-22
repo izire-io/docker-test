@@ -24,7 +24,6 @@ RUN set -ex && \
         --prefix=/usr \
         --sysconfdir=/etc/pureftpd \
         --without-humor \
-        --with-virtualchroot \
         --with-minimal \
         --with-virtualchroot \
         --with-throttling \
